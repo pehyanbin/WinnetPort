@@ -1,0 +1,15 @@
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\bin\Debug\net10.0-windows\PortScanner.WinForms.exe
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\bin\Debug\net10.0-windows\PortScanner.WinForms.deps.json
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\bin\Debug\net10.0-windows\PortScanner.WinForms.runtimeconfig.json
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\bin\Debug\net10.0-windows\PortScanner.WinForms.dll
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\bin\Debug\net10.0-windows\PortScanner.WinForms.pdb
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\obj\Debug\net10.0-windows\PortScanner.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\obj\Debug\net10.0-windows\PortScanner.WinForms.AssemblyInfoInputs.cache
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\obj\Debug\net10.0-windows\PortScanner.WinForms.AssemblyInfo.cs
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\obj\Debug\net10.0-windows\PortScanner.WinForms.csproj.CoreCompileInputs.cache
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\obj\Debug\net10.0-windows\PortScanner.WinForms.dll
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\obj\Debug\net10.0-windows\refint\PortScanner.WinForms.dll
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\obj\Debug\net10.0-windows\PortScanner.WinForms.pdb
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\obj\Debug\net10.0-windows\PortScanner.WinForms.genruntimeconfig.cache
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\obj\Debug\net10.0-windows\ref\PortScanner.WinForms.dll
+D:\Temp Storage\TcpPortScanner-WinForms-custom-ports\TcpPortScanner\PortScanner.WinForms\obj\Debug\net10.0-windows\PortScan.F089E540.Up2Date
